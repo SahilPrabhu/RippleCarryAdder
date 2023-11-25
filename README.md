@@ -28,6 +28,9 @@ Total time taken for the 8bit Ripple Carry Adder is : <br>
 <strong>T<sub>RCA</sub> = N * T<sub>FA</sub> <br></strong>
 where, T<sub>FA</sub> = Propogation Delay of each Full Adder Circuit
 
+## Simulation Waveform - Modelsim Altera
+![Waveform](https://github.com/SahilPrabhu/RippleCarryAdder/assets/92974277/b190b09b-1331-47ee-aef4-d7c44296e508)
+
 
 ## Pin Planner - Intel Quartus Prime
 ![WhatsApp Image 2023-11-24 at 8 47 20 AM](https://github.com/SahilPrabhu/RippleCarryAdder/assets/92974277/bb8049c5-6e6e-4ed4-8b22-4921460d0f9c)
