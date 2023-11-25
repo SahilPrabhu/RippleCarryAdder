@@ -20,6 +20,9 @@ Here is a top level view of a 4-bit Ripple Carry Adder for reference : <br>
 
 <img width="1440" alt="RTLView-3" src="https://github.com/SahilPrabhu/RippleCarryAdder/assets/92974277/b075da34-9b28-4a83-bba1-f6b77d8b5f64">
 
+### Technology Viewer
+![techview](https://github.com/SahilPrabhu/RippleCarryAdder/assets/92974277/1d772e13-977a-40df-a9de-2c3ef5a689da)
+
 
 ## Delay Calculation
 The layout of ripple carry adder is simple, which allows for fast design time; however, the ripple carry adder is relatively slow, since each full adder must wait for the carry bit to be calculated from the previous full adder. The gate delay can easily be calculated by inspection of the full adder circuit. 
