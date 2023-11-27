@@ -3,12 +3,18 @@
 ### What is a Ripple Carry Adder?
 A ripple carry adder is a digital circuit that produces the arithmetic sum of two binary numbers. It. can be constructed with full adders connected in cascaded with the carry output from each full adder connected to the carry input of the next full adder in the chain. This kind of adder is called Ripple Carry Adder, since each carry bit "ripples" to the next full adder.
 
-Here is a top level view of a 4-bit Ripple Carry Adder for reference : <br>
+Here is a top level view of a 4-bit Ripple Carry Adder for reference : 
+<br>
 
-![4bit_rca](https://github.com/SahilPrabhu/CADD_Project/assets/92974277/2bfc98bd-3959-434f-81ae-e5547708cdc1)
+![4bit rca](https://github.com/SahilPrabhu/RippleCarryAdder/assets/92974277/82b8e889-70cf-4b42-a071-a90a6accbc99)
+
 
 ### Truth Table of Full Adder
-![truth-table](https://github.com/SahilPrabhu/CADD_Project/assets/92974277/27793318-22e5-4c61-aefb-9bc38756f3e0)
+![FULLADDERTT](https://github.com/SahilPrabhu/RippleCarryAdder/assets/92974277/788e6ed5-eebb-4087-9746-06f943de79e9)
+
+### Truth Table of Half Adder
+![half-adder2](https://github.com/SahilPrabhu/RippleCarryAdder/assets/92974277/4fc87005-7ceb-4aea-a44d-f35d90870b3d)
+
 
 ## 8-bit RCA Netlist View
 ### Top Level RTL View 
